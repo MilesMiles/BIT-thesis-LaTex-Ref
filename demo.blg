@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: demo.aux
+The style file: GBT7714-2005NLang.bst
+A level-1 auxiliary file: chapters/WritingReference.aux
+A level-1 auxiliary file: chapters/differentces.aux
+A level-1 auxiliary file: chapters/pub.aux
+A level-1 auxiliary file: chapters/thanks.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: reference/references.bib
+-- BUPTThesis.bst version 0.2 (2009/01/25) by Yu Zhang.
+-- http://code.google.com/p/buptthesis/
+-- See the "userguide.pdf" manual for usage information.
+Warning--The editor in JianDahao2018 is missing.
+Warning--empty editor in JianDahao2018
+
+Done.
+You've used 1 entry,
+            4577 wiz_defined-function locations,
+            1016 strings with 7697 characters,
+and the built_in function-call counts, 630 in all, are:
+= -- 60
+> -- 13
+< -- 1
++ -- 8
+- -- 4
+* -- 67
+:= -- 84
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 37
+empty$ -- 65
+format.name$ -- 4
+if$ -- 145
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 9
+num.names$ -- 1
+pop$ -- 5
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 13
+stack$ -- 0
+substring$ -- 56
+swap$ -- 11
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 7
+warning$ -- 2
+while$ -- 7
+width$ -- 2
+write$ -- 12
+(There were 2 warnings)

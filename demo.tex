@@ -1,0 +1,70 @@
+%%==================================================
+%% demo.tex for BIT Thesis
+%% modified by yang yating
+%% version: 1.0
+%% last update: Sep. 1st, 2017
+%%==================================================
+
+% 默认单面打印 oneside 、硕士论文模板 master
+
+\documentclass[oneside, master]{BIT-thesis-grd}
+%\usepackage{mathptmx}
+% \usepackage[justification=centering]{caption}
+% 打印选项： 双面打印 oneside；单面打印 twoside
+% 模板选项： 硕士论文 master； 博士论文 doctor
+\usepackage{listings} 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 封面
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% 中文封面内容(关注内容而不是表现形式)
+% \classification{TN914.3}
+% \UDC{540}
+
+\title{LaTeX论文写作填坑/拓展指南}
+\vtitle{LaTeX论文写作填坑/拓展指南}
+\author{JDH}
+
+\defenddate{2019年5月}
+
+% 封面绘制
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 前置部分
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frontmatter
+\allowdisplaybreaks
+
+% 加入目录
+\tableofcontents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 正主体部分
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mainmatter
+
+%% 各章正文内容
+%\include{chapters/WritingReference}
+\include{chapters/preamble}
+\include{chapters/template_intro}
+\include{chapters/equation}
+\include{chapters/figure_table}
+\include{chapters/reference}
+\include{chapters/notes}
+
+
+%(其后部分无编号)
+\backmatter
+
+% 发表文章目录
+\include{chapters/pub}
+% 致谢
+\include{chapters/thanks}
+% 作者简介（博士论文需要）
+%\include{chapters/resume}
+
+\bibliography{reference/references}
+\end{document}

@@ -1,0 +1,307 @@
+% Encoding: UTF-8
+
+@inproceedings{muller1998optimality,
+  title={On the optimality of metrics for coarse frame synchronization in OFDM: A comparison},
+  author={Muller-Weinfurtner, Stefan H},
+  booktitle={Personal, Indoor and Mobile Radio Communications, 1998. The Ninth IEEE International Symposium on},
+  volume={2},
+  pages={533--537},
+  year={1998},
+  organization={IEEE}
+}
+
+@inproceedings{liu2010blind,
+  title={Blind symbol synchronization for OFDM systems in multipath fading channels},
+  author={Liu, Xueyong and Pan, Ke and Zuo, Yong and Chen, Jie},
+  booktitle={Wireless Communications Networking and Mobile Computing (WiCOM), 2010 6th International Conference on},
+  pages={1--4},
+  year={2010},
+  organization={IEEE}
+}
+
+@article{ma2009blind,
+  title={Blind symbol synchronization based on cyclic prefix for OFDM systems},
+  author={Ma, Shaodan and Pan, Xinyue and Yang, Guang-Hua and Ng, Tung-Sang},
+  journal={IEEE Transactions on Vehicular Technology},
+  volume={58},
+  number={4},
+  pages={1746--1751},
+  year={2009},
+  publisher={IEEE}
+}
+
+@article{negi2002blind,
+  title={Blind OFDM symbol synchronization in ISI channels},
+  author={Negi, Rohit and Cioffi, John M},
+  journal={IEEE Transactions on Communications},
+  volume={50},
+  number={9},
+  pages={1525--1534},
+  year={2002},
+  publisher={IEEE}
+}
+
+@article{landstrom2002symbol,
+  title={Symbol time offset estimation in coherent OFDM systems},
+  author={Landstrom, Daniel and Wilson, Sarah Kate and Van de Beek, J-J and Odling, Per and Borjesson, Per Ola},
+  journal={IEEE Transactions on Communications},
+  volume={50},
+  number={4},
+  pages={545--549},
+  year={2002},
+  publisher={IEEE}
+}
+
+@article{sari1998orthogonal,
+  title={Orthogonal frequency-division multiple access and its application to CATV networks},
+  author={Sari, Hikmet and Karam, Georges},
+  journal={Transactions on Emerging Telecommunications Technologies},
+  volume={9},
+  number={6},
+  pages={507--516},
+  year={1998},
+  publisher={Wiley Online Library}
+}
+
+@article{ieee2006draft,
+  title={Draft amendment to standard for information technology-telecommunications and information exchange between systems-Local and metropolitan networks-specific requirements-Part 11: Wireless LAN medium access control and physical layer specifications: Enhancements for higher throughput},
+  author={IEEE802.11nWorkingGroup},
+  journal={IEEE P802.11n/D1.0},
+  year={2006}
+}
+
+@inproceedings{ayanoglu2001vofdm,
+  title={VOFDM broadband wireless transmission and its advantages over single carrier modulation},
+  author={Ayanoglu, Ender and Jones, VK and Raleigh, Gregory G and Gardner, James and Gerlach, Derek and Toussi, Karim},
+  booktitle={Communications, 2001. ICC 2001. IEEE International Conference on},
+  volume={6},
+  pages={1660--1664},
+  year={2001},
+  organization={IEEE}
+}
+
+@article{etsi1996digital,
+  title={Digital broadcasting systems for television, sound and data services; framing structure, channel coding and modulation for digital terrestrial television},
+  author={ETSI Normalization Committee and others},
+  journal={Norme ETSI, Sophia-Antipolis, France, Doc. pr ETS},
+  volume={300},
+  pages={744},
+  year={1996}
+}
+
+@phdthesis{tianye2007,
+  title={基于训练符号的 OFDM 同步技术研究},
+  author={田野},
+  year={2007},
+  school={北京: 北京交通大学}
+}
+
+@book{aibo2011,
+  title={宽带无线通信 OFDM 系统同步技术},
+  author={艾渤 and 王劲涛 and 钟章队},
+  year={2011},
+  publisher={人民邮电出版社}
+}
+
+@book{zhanghaibing2006,
+  title={正交频分复用的基本原理与关键技术},
+  author={张海滨 and 通信技术},
+  volume={1},
+  year={2006},
+  publisher={国防工业出版社}
+}
+
+@article{weinstein1971data,
+  title={Data transmission by frequency-division multiplexing using the discrete Fourier transform},
+  author={Weinstein, S and Ebert, Paul},
+  journal={IEEE transactions on Communication Technology},
+  volume={19},
+  number={5},
+  pages={628--634},
+  year={1971},
+  publisher={IEEE}
+}
+
+@article{chang1966synthesis,
+  title={Synthesis of Band-Limited Orthogonal Signals for Multichannel Data Transmission},
+  author={Chang, Robert W},
+  journal={Bell Labs Technical Journal},
+  volume={45},
+  number={10},
+  pages={1775--1796},
+  year={1966},
+  publisher={Wiley Online Library}
+}
+
+@Article{ren2005synchronization,
+  author    = {Ren, Guangliang and Chang, Yilin and Zhang, Hui and Zhang, Huining},
+  title     = {Synchronization method based on a new constant envelop preamble for OFDM systems},
+  journal   = {IEEE Transactions on Broadcasting},
+  year      = {2005},
+  volume    = {51},
+  number    = {1},
+  pages     = {139--143},
+  file      = {:训练序列\\[2005Ren]Synchronization method based on a new constant envelop preamble for OFDM systems.pdf:PDF},
+  publisher = {IEEE},
+}
+
+@Article{park2003novel,
+  author    = {Park, Byungjoon and Cheon, Hyunsoo and Kang, Changeon and Hong, Daesik},
+  title     = {A novel timing estimation method for OFDM systems},
+  journal   = {IEEE Communications letters},
+  year      = {2003},
+  volume    = {7},
+  number    = {5},
+  pages     = {239--241},
+  file      = {:F\:\\OFDM参考论文\\训练序列\\经典算法\\park.pdf:PDF},
+  keywords  = {rank2},
+  publisher = {IEEE},
+}
+
+@Article{minn2000timing,
+  author    = {Minn, Hlaing and Zeng, Mao and Bhargava, Vijay K},
+  title     = {On timing offset estimation for OFDM systems},
+  journal   = {IEEE Communications letters},
+  year      = {2000},
+  volume    = {4},
+  number    = {7},
+  pages     = {242--244},
+  file      = {:F\:\\OFDM参考论文\\训练序列\\经典算法\\minn算法.pdf:PDF},
+  keywords  = {rank2},
+  publisher = {IEEE},
+}
+
+@Article{schmidl1997robust,
+  author    = {Schmidl, Timothy M and Cox, Donald C},
+  title     = {Robust frequency and timing synchronization for OFDM},
+  journal   = {IEEE transactions on communications},
+  year      = {1997},
+  volume    = {45},
+  number    = {12},
+  pages     = {1613--1621},
+  file      = {:F\:\\OFDM参考论文\\训练序列\\经典算法\\schmidl1997robust - Robust frequency and timing synchronization for OFDM.pdf:PDF},
+  keywords  = {rank2},
+  publisher = {IEEE},
+}
+
+@InProceedings{fang2012novel,
+  author       = {Fang, Yibo and Zhang, Zuotao and Liu, Guanghui},
+  title        = {A novel synchronization algorithm based on CAZAC sequence for OFDM systems},
+  booktitle    = {2012 8th International Conference on Wireless Communications, Networking and Mobile Computing (WiCOM)},
+  year         = {2012},
+  pages        = {1--4},
+  organization = {IEEE},
+}
+
+@InProceedings{shao2014robust,
+  author       = {Shao, Huaizong and Li, Yang and Tan, Jiajia and Xu, Yuezhu and Liu, Guolian},
+  title        = {Robust timing and frequency synchronization based on constant amplitude zero autocorrelation sequence for OFDM systems},
+  booktitle    = {2014 IEEE International Conference on Communication Problem-Solving (ICCP)},
+  year         = {2014},
+  pages        = {14--17},
+  organization = {IEEE},
+}
+
+@InProceedings{gul2012robust,
+  author       = {Gul, Malik Muhammad Usman and Lee, Sungeun and Ma, Xiaoli},
+  title        = {Robust synchronization for OFDM employing Zadoff-Chu sequence},
+  booktitle    = {2012 46th Annual Conference on Information Sciences and Systems (CISS)},
+  year         = {2012},
+  pages        = {1--6},
+  organization = {IEEE},
+}
+
+@InProceedings{zhou2008preamble,
+  author       = {Zhou, En and Hou, Xiaolin and Zhang, Zhan and Kayama, Hidetoshi},
+  title        = {A preamble structure and synchronization method based on central-symmetric sequence for OFDM systems},
+  booktitle    = {Vehicular Technology Conference, 2008. VTC Spring 2008. IEEE},
+  year         = {2008},
+  pages        = {1478--1482},
+  organization = {IEEE},
+}
+
+@Article{yi2008novel,
+  author    = {Yi, Guo and Gang, Liu and Jianhua, Ge},
+  title     = {A novel time and frequency synchronization scheme for OFDM systems},
+  journal   = {IEEE Transactions on Consumer Electronics},
+  year      = {2008},
+  volume    = {54},
+  number    = {2},
+  publisher = {IEEE},
+}
+
+@article{wang2012novel,
+  title={A novel synchronization algorithm for OFDM systems with weighted CAZAC sequence},
+  author={Wang, Han and Zhu, Leiji and Shi, Yusong and Xing, Tao and Wang, Yingguan},
+  journal={Journal of Computational Information Systems},
+  volume={8},
+  number={6},
+  pages={2275--2283},
+  year={2012}
+}
+
+@article{moose1994technique,
+  title={A technique for orthogonal frequency division multiplexing frequency offset correction},
+  author={Moose, Paul H},
+  journal={IEEE Transactions on communications},
+  volume={42},
+  number={10},
+  pages={2908--2914},
+  year={1994},
+  publisher={IEEE}
+}
+
+@article{van1997ml,
+  title={ML estimation of time and frequency offset in OFDM systems},
+  author={Van de Beek, Jan-Jaap and Sandell, Magnus and Borjesson, Per Ola},
+  journal={IEEE transactions on signal processing},
+  volume={45},
+  number={7},
+  pages={1800--1805},
+  year={1997},
+  publisher={IEEE}
+}
+
+@inproceedings{kim1999fast,
+  title={A fast burst synchronization for OFDM based wireless asynchronous transfer mode systems},
+  author={Kim, Taekwan and Cho, Namshin and Cho, Jaehee and Bang, Keukjoon and Kim, Kwangchul and Park, Hyunchoil and Hong, Daesik},
+  booktitle={Global Telecommunications Conference, 1999. GLOBECOM'99},
+  volume={1},
+  pages={543--547},
+  year={1999},
+  organization={IEEE}
+}
+
+@article{pollet1995ber,
+  title={BER sensitivity of OFDM systems to carrier frequency offset and Wiener phase noise},
+  author={Pollet, Thierry and Van Bladel, Mark and Moeneclaey, Marc},
+  journal={IEEE Transactions on communications},
+  volume={43},
+  number={234},
+  pages={191--193},
+  year={1995},
+  publisher={IEEE}
+}
+
+@article{omomukuyo2015joint,
+  title={Joint timing and frequency synchronization based on weighted CAZAC sequences for reduced-guard-interval CO-OFDM systems},
+  author={Omomukuyo, Oluyemi and Chang, Deyuan and Zhu, Jingwen and Dobre, Octavia and Venkatesan, Ramachandran and Ngatched, Telex and Rumbolt, Chuck},
+  journal={Optics express},
+  volume={23},
+  number={5},
+  pages={5777--5788},
+  year={2015},
+  publisher={Optical Society of America}
+}
+
+@inproceedings{peled1980frequency,
+  title={Frequency domain data transmission using reduced computational complexity algorithms},
+  author={Peled, Abraham and Ruiz, Antonio},
+  booktitle={Acoustics, Speech, and Signal Processing, IEEE International Conference on ICASSP'80.},
+  volume={5},
+  pages={964--967},
+  year={1980},
+  organization={IEEE}
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
